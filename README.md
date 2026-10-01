@@ -2,6 +2,7 @@
 
 **Роль:** Data Analyst  
 **Інструменти та технології:** SQL, Python, Статистичний аналіз, Tableau 
+
 🔗 **Tableau Dashboard:** [Переглянути інтерактивний дашборд на Tableau Public](https://public.tableau.com/app/profile/viktoriia.maslianchuk/viz/E-CommerceGrowthAnalyticsSalesPerformanceCustomerBehavior/E-CommerceSalesTrafficOverview)
 
 ---
